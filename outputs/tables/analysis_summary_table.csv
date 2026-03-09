@@ -1,0 +1,4 @@
+rank,school,enrollment,net_new_beds,direct_trolley,avg_home_value_usd,rent_to_value_ratio_pct,investment_score
+1,SDSU,39000,4468.0,1,835518,6.18,0.932
+2,UCSD,44256,18910.0,1,1072929,3.37,0.6
+3,USD,9714,,0,989256,3.44,0.168

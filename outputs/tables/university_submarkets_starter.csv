@@ -1,0 +1,4 @@
+school,short_name,proxy_zip,area_name,total_enrollment,undergrad_enrollment,grad_enrollment,avg_home_value_usd,avg_rent_usd,direct_trolley_access,transit_score,current_housing_beds,future_housing_beds,net_new_beds,expansion_score,notes,annual_rent_usd,rent_to_value_ratio_pct
+San Diego State University,SDSU,92115,College Area,39000,,,835518,4300,1,1.0,,5220.0,4468.0,0.85,Direct Green Line access; strong housing expansion signal.,51600,6.175809497820514
+UC San Diego,UCSD,92122,University City / UTC,44256,34955.0,,1072929,3009,1,1.0,19710.0,38620.0,18910.0,1.0,Blue Line access; strongest long-run official expansion story.,36108,3.365367139857344
+University of San Diego,USD,92110,Linda Vista / Morena,9714,5851.0,3863.0,989256,2833,0,0.35,,,,0.2,"Useful benchmark, but weaker direct rail and expansion signal.",33996,3.436521992285111
