@@ -1,0 +1,20 @@
+Category,University / Scope,What It Gives You,Best For,URL,Notes
+Official enrollment,UC San Diego,2024-25 Common Data Set with total and undergraduate enrollment,Campus size and comparison,https://ir.ucsd.edu/stats/undergrad/CDS_UCSD_2024-20252.pdf,"Use total enrollment = 44,256; undergrad = 34,955."
+Official planning / housing,UC San Diego,Long-range plan and housing goal through 2040,Expansion thesis,https://plandesignbuild.ucsd.edu/planning/lrdp/la-jolla.html,"Current beds 19,710; goal 38,620 by 2040."
+Official transit,UC San Diego,Campus transit guide,Transit-access argument,https://transportation.ucsd.edu/campus/guide.html,Blue Line connects to main campus.
+Official enrollment,SDSU,Facts page with student count,Campus size and comparison,https://www.sdsu.edu/about/facts-mission-and-history,"States SDSU serves more than 39,000 students."
+Official planning / housing,SDSU,Housing page with Evolve project summary,Expansion thesis,https://housing.sdsu.edu/,"Project summary cites 5,220 beds and ~4,468 net new beds."
+Project/EIR details,SDSU,Initial study with project bed counts and net new beds,Detailed project support,https://pdc.sdsu.edu/_resources/files/24-8-23-sdsu-evolve-initial-study.pdf,"Good source for 5,220 beds and 4,518 net new beds."
+Official transit,SDSU,MTS page for campus transit,Transit-access argument,https://parking.sdsu.edu/commuting/mts,Green Line stop on campus.
+Official enrollment,USD,USD facts page with fall 2024 undergrad and graduate enrollment,Campus size and comparison,https://www.sandiego.edu/about/usd-facts.php,"Undergrad 5,851; graduate 3,863."
+Official housing,USD,Residential life / campus housing page,Benchmarking,https://www.sandiego.edu/residential-life/,"Use mainly as a benchmark, not the strongest expansion story."
+Official transit,USD,Off-campus transportation page,Transit benchmark,https://www.sandiego.edu/commuter-commons/living-off-campus/transportation-and-parking.php,Old Town / Morena-Linda Vista are the nearest transit hubs.
+Home values,ZIP proxies,Zillow Research / local ZIP pages,Fast proxy for nearby housing market,https://www.zillow.com/research/data/,Download ZHVI/ZORI for cleaner time-series instead of copying snapshot values.
+UCSD ZIP proxy,ZIP 92122,Current typical home value,Quick descriptive stat,https://www.zillow.com/home-values/96664/san-diego-ca-92122/,UCSD proxy area.
+SDSU ZIP proxy,ZIP 92115,Current typical home value,Quick descriptive stat,https://www.zillow.com/home-values/96657/san-diego-ca-92115/,SDSU proxy area.
+USD ZIP proxy,ZIP 92110,Current typical home value,Quick descriptive stat,https://www.zillow.com/home-values/96652/san-diego-ca-92110/,USD proxy area.
+UCSD ZIP rent proxy,ZIP 92122,Current average asking rent,Quick descriptive stat,https://www.zillow.com/rental-manager/market-trends/92122/,Use as a proxy only.
+SDSU ZIP rent proxy,ZIP 92115,Current average asking rent,Quick descriptive stat,https://www.zillow.com/rental-manager/market-trends/92115/,Use as a proxy only; student houses can skew averages.
+Core dataset,FHFA,House Price Index datasets,Long-run price growth by ZIP/county/tract,https://www.fhfa.gov/data/hpi/datasets,Best choice for tract-level price growth.
+Core dataset,ACS 5-year,Census demographic and housing data,"Income, rent burden, commute, renter share",https://www.census.gov/data/developers/data-sets/acs-5year.html,"Available down to ZIP, tract, and block group."
+Core dataset,data.census.gov,Download ACS tables manually,Pulling tract or ZIP tables,https://data.census.gov/,Useful if you prefer point-and-click downloads.
